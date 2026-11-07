@@ -1,0 +1,6 @@
+{
+  "name": "Signal — Log in",
+  "description": "Find Signal to Action Instantly. Built for fast-moving teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
